@@ -1,0 +1,22 @@
+{
+    "name": "Football News",
+    "gcm_sender_id": "103953800507",
+    "short_name": "Football",
+    "description": "Aplikasi PWA",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#00897B",
+    "theme_color": "#00897B",
+    "icons": [
+        {
+            "src": "../img/logo/icon_codepolitan.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "../img/logo/icon_codepolitan.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
